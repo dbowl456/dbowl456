@@ -1,7 +1,7 @@
 <h1>Dalton Bowling</h1>
 
 <h2>Programming Languages</h2>
-<p align="center">
+<p>
   <a href="https://python.org"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffce3d"/></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="https://www.c-language.org/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
@@ -12,13 +12,13 @@
 </p>
 
 <h2>Other</h2>
-<p align="center">
+<p>
   <a href="https://ubuntu.com/download/server"><img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 </p>
 
 <h2>Games</h2>
-<p align="center">
+<p>
   <a href="https://www.fortnite.com/"><img src="https://img.shields.io/badge/Fortnite-6DB8FA.svg?style=for-the-badge&logo=fortnite&logoColor=white"></a>
   <a href="https://playvalorant.com/en-us/"><img src="https://img.shields.io/badge/Valorant-FA4454.svg?style=for-the-badge&logo=valorant&logoColor=white"></a>
 </p>
