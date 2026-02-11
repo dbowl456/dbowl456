@@ -17,5 +17,16 @@
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 </p>
 
+<h2>Games</h2>
+<p align="center">
+  <a href="https://www.fortnite.com/"><img src="https://img.shields.io/badge/Fortnite-6DB8FA.svg?style=for-the-badge&logo=fortnite&logoColor=white"></a>
+  <a href="https://playvalorant.com/en-us/"><img src="https://img.shields.io/badge/Valorant-FA4454.svg?style=for-the-badge&logo=valorant&logoColor=white"></a>
+</p>
+
+<h2>Hobbies</h2>
+<p>
+  Nothing...yet
+</p>
+
 ![Dalton's GitHub stats](https://github-readme-stats-ki33s9iia-dbowl456s-projects.vercel.app/api?username=dbowl456&theme=aura&show_icons=true)
 ![Top Langs](https://github-readme-stats-ki33s9iia-dbowl456s-projects.vercel.app/api/top-langs/?username=dbowl456&hide=TeX,jupyter%20notebook&langs_count=8&layout=compact&theme=aura)
