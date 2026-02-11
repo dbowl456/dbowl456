@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Dalton's GitHub stats](https://github-readme-stats-ki33s9iia-dbowl456s-projects.vercel.app/api?username=dbowl456&theme=aura&show_icons=true)
-![Top Langs](https://github-readme-stats-phi-swart-79.vercel.app/api/top-langs/?username=dbowl456&langs_count=8&layout=compact&theme=aura)
+![Top Langs](https://github-readme-stats-ki33s9iia-dbowl456s-projects.vercel.app/api/top-langs/?username=dbowl456&langs_count=8&layout=compact&theme=aura)
