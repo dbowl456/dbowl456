@@ -1,4 +1,4 @@
-<h1 align="center">Dalton Bowling</h1>
+<h1>Dalton Bowling</h1>
 
 <h2>Programming Languages</h2>
 <p align="center">
