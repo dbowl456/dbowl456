@@ -9,6 +9,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white"/></a>
   <a href="https://www.ruby-lang.org/en/"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/></a>
+  <a href="https://www.haskell.org/"><img src="https://img.shields.io/badge/Haskell-5e5086.svg?style=for-the-badge&logo=haskell&logoColor=white"/></a>
+  <a href="https://rust-lang.org/"><img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
 </p>
 
 <h2>Other</h2>
@@ -25,7 +27,7 @@
 
 <h2>Hobbies</h2>
 <p>
-  Nothing...yet
+  <a href="https://www.discogs.com/user/dbowl456"><img src="https://img.shields.io/badge/Discogs-333333.svg?style=for-the-badge&logo=Discogs&logoColor=white"></a>
 </p>
 
 ![Dalton's GitHub stats](https://github-readme-stats-ki33s9iia-dbowl456s-projects.vercel.app/api?username=dbowl456&theme=aura&show_icons=true)
