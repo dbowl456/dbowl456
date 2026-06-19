@@ -13,8 +13,11 @@
   <a href="https://rust-lang.org/"><img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
 </p>
 
-<h2>Other</h2>
+<h2>Technologies</h2>
 <p>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=fff"/></a>
+  <a href="https://tmux.us/"><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=fff"></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"></a>
   <a href="https://ubuntu.com/download/server"><img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 </p>
@@ -28,6 +31,7 @@
 <h2>Hobbies</h2>
 <p>
   <a href="https://www.discogs.com/user/dbowl456"><img src="https://img.shields.io/badge/Discogs-333333.svg?style=for-the-badge&logo=Discogs&logoColor=white"></a>
+  <a href="https://www.nintendo.com/us/gaming-systems/switch-2/"><img src="https://custom-icon-badges.demolab.com/badge/Nintendo%20Switch%202-E60012?style=for-the-badge&logo=nintendo&logoColor=white"></a>
 </p>
 
 ![Dalton's GitHub stats](https://github-readme-stats-ki33s9iia-dbowl456s-projects.vercel.app/api?username=dbowl456&theme=aura&show_icons=true)
