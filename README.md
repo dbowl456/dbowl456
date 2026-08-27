@@ -1,6 +1,6 @@
 <h1>Dalton Bowling</h1>
 
-<h2>Programming Languages</h2>
+<h2>Programming/Markup Languages</h2>
 <p>
   <a href="https://python.org"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffce3d"/></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
